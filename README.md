@@ -1,4 +1,4 @@
-# Datafun-01-Attr-LDooley
+# datafun-01-attr
 Project 1 
 Specification for Project 1 Python Module
 Overview
